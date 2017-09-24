@@ -1,7 +1,7 @@
-# Polydivisbles
-A basic Java program to find polydivisble numbers, inspired by the "Totally addicted to base" section of Matt Parker's "Things to make and do in the fourth dimension".
+# Polydivisibles
+A basic Java program to find polydivisible numbers, inspired by the "Totally addicted to base" section of Matt Parker's "Things to make and do in the fourth dimension".
 
-What is a polydivisble number?
+What is a polydivisible number?
 -
 According to the source that is Wikipedia...
 >a polydivisible number is a number with digits abcde... that has the following properties :
